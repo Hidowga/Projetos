@@ -6,6 +6,10 @@ data Person= Person { firstName   :: String
                     , height      :: Float
                     , phoneNumber :: String
                     , flavor      :: String
+<<<<<<< HEAD
                     }deriving (Show)
 
 
+=======
+                         }deriving (Show)
+>>>>>>> teste
